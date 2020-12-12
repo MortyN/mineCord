@@ -11,7 +11,7 @@ import org.bukkit.ChatColor;
 public class disc2Mine extends ListenerAdapter {
 
     public void onGuildMessageReceived(GuildMessageReceivedEvent event){
-
+//TODO see how i can send message from discord to minecraft chat
         User usr = event.getAuthor();
         Message msg = event.getMessage();
 
