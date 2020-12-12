@@ -1,0 +1,10 @@
+name: MineCord
+version: 1.0
+main: com.minecord.plugin.minecord.MineCord
+api-version: 1.16
+authors: [ MortyN ]
+description: A discord minecraft plugin
+commands:
+  discord:
+    description: Sleep toggle if night
+    usage: /<command>
